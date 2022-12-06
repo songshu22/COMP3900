@@ -1,0 +1,63 @@
+Week1
+* Make group & brain stormed the possible ideas
+* I proposed a map route planning application but it was not very well received 
+* Setup the group slack 
+* Created significant porportion of the background of the Bill of Materials propsal
+* discussed team expecting for high performance and outlined our availabilities
+
+Week 2
+* focused on more project ideas, the bill of materials idea was not quite novel enought
+* worked with the group on the DinnerPary proposal
+* Scheduled meetings for next week
+* assisted to project proposal
+
+Week 3
+* Wrote epics and user stories for project proposal
+* extensive figma mockups for dinner party
+* extensive user flows in figjam
+* Converted all user stores from report into jira
+* assisted with mapping of user stories to program boards
+
+Week 4
+* outlined plan for first sprint
+* setup basic react frontend with Tiger, spent a few hours on a call with him
+* tiger taught me styled components
+* Implemented a basic recipe card 
+
+Week 5
+* Completed first sprint
+* Significant pair programming with tiger
+* Had to bug fix some significant backend functionality which was not ready by the deadline
+* Significant development on the backend as there were significant time Management issues with the current backend team
+* completed demo A with Tiger
+* Completed Retro A meeting
+
+Week 6
+* Completed second sprint
+* this was mainly focusing on fixing bugs from the previous sprint to give us the platform to build on
+
+Week 7
+* Implemented create session functionality
+* implemented combine ingredient functionality
+* completed third sprint
+
+Week 8
+* Implemented rate reciepe full stack
+* updated recipe ratings to be calcualted paramater
+* significant pair programming with Tiger on front end tasks
+* prepared and conducted demo B
+* Completed fourth sprint
+
+Week 9
+* Bug fix session endpoints
+
+Week 10
+* docker deployement
+* Frontend touch ups including adding 'new' and 'hosting' tags
+* local mongo db deployement
+* significant report writing
+    -> all user manual
+    -> all setup docs
+    -> overview section
+    -> proof read entire document
+    -> ghost user novelty writeup

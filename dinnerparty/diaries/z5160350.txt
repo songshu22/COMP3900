@@ -1,0 +1,29 @@
+Week 1:
+Formed team during lab session and brainstormed custom project ideas. Joined WebCMS group, and registered for Slack, Jira. Team submitted a custom project request form for a 'Bill of Materials Management System'. Assigned a scrum master and discussed communication and organisation methods.
+
+Week 2:
+Continued brainstorming custom project idea. Formed a new project idea for a new 'Dinner Party' app. Helped write project request form for review. Scheduled time for meetings and discussed a potential plan of attack for the following week to begin work and complete the project proposal.
+
+Week 3:
+Contributed to project proposal assignment by writing user stories, helping with storyboards and formatting document for submission. Decided on tech stack and system architecture.
+
+Week 4:
+Discussed plan for first sprint. Setting up frontend with Tom. Starting to organise dependencies and also build the scaffold for the web page. Beginning implementation of core features for 1st sprint such as auth. Attempting to connect frontend to backend endpoints.
+
+Week 5:
+Completed first sprint. Implemented all frontend functionality for sprint 1. Integrated connectivity with backend - fully functional with minor issues and workarounds. All CSS and UI done as per Figma. Completed demo A and reptrospective meeting. 
+
+Week 6:
+Completed second sprint. Fixed ALL frontend bugs and issues remaining from sprint 1 and updated frontend to work with changes to the backend. Implemented some small quality of life features on the frontend. Discussed and planned sprint 3. Also finishing up retrospective A.
+
+Week 7:
+Completed all frontend for third sprint and made some minor adjustments to the backend. Session creation is fully completed on the frontend. Viewing sessions in progress.
+
+Week 8:
+Completed integration of backend endpoints into frontend. Frontend fully complete for sprint 4. Ready for demo B
+
+Week 9:
+Sprint planning for final sprint. Readied retro B for submission. Beginning work on bug fixes for final sprint. 
+
+Week 10:
+Completion of all frontend issues. Preperation for final demo and report. The end.

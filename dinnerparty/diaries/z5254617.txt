@@ -1,0 +1,26 @@
+week 1:
+  - set up slack / Jira, send out many when2meets
+week 2:
+  - discern/debate project ideas between BOM
+  - Ideated name 'DinnerParty'
+week 3:
+  - Significant contribution to styling of figma mockups
+  - team grind to submit the project proposal
+week 4
+  - Django, swagger & mongo basic setup and reading.
+  - Begin implementing login setup as a post request
+week 5 
+  - Finish sprint 1 - review PRs, significant amount of rebasing
+week 6
+ - retro A
+week 7
+  - schemas for create / get session
+  - pair programmed/implemented get session with code
+week 8
+ - Retro B
+ - meeting planning and team co-ordination for remaining tasks & sprint with all deliverables in mind, as well as sorting out availability ahead of time
+week 9 
+  - watch lectures 8 & 9
+  - implement emails and calendar invite functionality
+week 10
+  - report
